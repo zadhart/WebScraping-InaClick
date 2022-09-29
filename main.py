@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import json
 import uuid
+import os
 
 f = open("config.json")
 
@@ -26,6 +27,10 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver.get("https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=4&subject_ids%5B%5D=15446")
 
 for i in range(jdata["lastPage"], jdata["lastPage"] + 20):
+
+    if(jdata["lastPage"] == 300):
+        os.system("shutdown")
+
     time.sleep(2)
 
     t = driver.find_elements(By.CLASS_NAME, "q-id")
@@ -50,5 +55,3 @@ for i in range(jdata["lastPage"], jdata["lastPage"] + 20):
 
     with open("config.json", "w") as outfile:
         outfile.write(json.dumps(jdata))
-
-
