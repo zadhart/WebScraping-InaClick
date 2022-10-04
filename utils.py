@@ -85,28 +85,33 @@ def remTag(tag):
     mys = ""
     w = 0
     #print(l)
-    for x in range(len(tag)):
-        if len(l) == 0:
-            mys = tag
-            break
-        elif x >= l[w] and x <= l[w+ 1]:
-            pass
-        elif x >= l[w+ 1]:
-            #mys = mys + " "
-            mys = mys + tag[x]
-            w += 2
-        else:
-            mys = mys + tag[x]
+    try:
+        for x in range(len(tag)):
+            if len(l) == 0:
+                mys = tag
+                break
+            elif x >= l[w] and x <= l[w+ 1]:
+                pass
+            elif x >= l[w+ 1]:
+                #mys = mys + " "
+                mys = mys + tag[x]
+                w += 2
+            else:
+                mys = mys + tag[x]
 
-    mys2 = ""
-    for x in mys:
-        if x != "<" and x != ">" and x != ";":
-            mys2 = mys2 + x
+        mys2 = ""
+        for x in mys:
+            if x != "<" and x != ">" and x != ";":
+                mys2 = mys2 + x
 
-    mys2 = mys2.replace("&nbsp", " ")
-    mys2 = mys2.replace("\n", " ")
-        
-    return mys2
+        mys2 = mys2.replace("&nbsp", " ")
+        mys2 = mys2.replace("\n", " ")
+            
+        return mys2
+
+    except:
+        return "error"
+
 
 def getData(src, driver):
 
