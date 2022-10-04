@@ -1,8 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from utils import getQuestions, getInfo, remTag
+from utils import getQuestions, getInfo, remTag, getData
 import json
+import pandas as pd
 
 f = open("config.json")
 
@@ -12,13 +13,16 @@ f.close()
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-q = getInfo(driver, "/questoes-de-concursos/questoes/97095657-34")
+d = []
+links = ["/questoes-de-concursos/questoes/97095657-34",
+"/questoes-de-concursos/questoes/157f4905-32",
+"/questoes-de-concursos/questoes/157c6275-32"]
 
-print(q)
+for x in links:
+    d.append(getData(x, driver))
 
-print("______________________________________________________________________________")
+df = pd.DataFrame.from_dict(d) 
 
-print(remTag(q["a"]))
-
+df.to_csv("teste.csv")
 
 driver.quit()

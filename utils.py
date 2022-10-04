@@ -65,13 +65,14 @@ def getInfo(driver, href):
 
     except:
 
-        descricao = driver.find_element(By.CLASS_NAME, "q-question-enunciation").get_attribute('innerHTML')
+        '''descricao = driver.find_element(By.CLASS_NAME, "q-question-enunciation").get_attribute('innerHTML')
 
         a = driver.find_element(By.XPATH, "/html/body/div[2]/main/article/div[1]/div/div/div/div[1]/div[4]/div[4]/fieldset/div[1]/label/div").get_attribute('innerHTML')
 
         b = driver.find_element(By.XPATH, "/html/body/div[2]/main/article/div[1]/div/div/div/div[1]/div[4]/div[4]/fieldset/div[2]/label/div").get_attribute('innerHTML')
-
-        return {"descricao": descricao, "a": a, "b": b, "c": "none", "d": "none", "e": "none"}
+'''
+        return {"descricao": "none", "a": "none", "b": "none", "c": "none", "d": "none", "e": "none"}
+        
 
 def remTag(tag):
     i = 0
@@ -106,3 +107,21 @@ def remTag(tag):
     mys2 = mys2.replace("\n", " ")
         
     return mys2
+
+def getData(src, driver):
+
+    q = getInfo(driver, src)
+
+    data = q
+
+    data["src"] = src
+
+    for x in q:
+        if q[x] != "none":
+            data[x] = remTag(q[x])
+
+        else:
+            data[x] = "none"
+
+    return data
+
