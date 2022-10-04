@@ -72,3 +72,37 @@ def getInfo(driver, href):
         b = driver.find_element(By.XPATH, "/html/body/div[2]/main/article/div[1]/div/div/div/div[1]/div[4]/div[4]/fieldset/div[2]/label/div").get_attribute('innerHTML')
 
         return {"descricao": descricao, "a": a, "b": b, "c": "none", "d": "none", "e": "none"}
+
+def remTag(tag):
+    i = 0
+    l = []
+    for x in tag:
+        if x == "<" or x == ">":
+            l.append(i)
+        i += 1
+
+    mys = ""
+    w = 0
+    #print(l)
+    for x in range(len(tag)):
+        if len(l) == 0:
+            mys = tag
+            break
+        elif x >= l[w] and x <= l[w+ 1]:
+            pass
+        elif x >= l[w+ 1]:
+            #mys = mys + " "
+            mys = mys + tag[x]
+            w += 2
+        else:
+            mys = mys + tag[x]
+
+    mys2 = ""
+    for x in mys:
+        if x != "<" and x != ">" and x != ";":
+            mys2 = mys2 + x
+
+    mys2 = mys2.replace("&nbsp", " ")
+    mys2 = mys2.replace("\n", " ")
+        
+    return mys2
