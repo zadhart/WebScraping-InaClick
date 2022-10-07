@@ -1,0 +1,101 @@
+,descricao,a,b,c,d,e,src
+0,none,none,none,none,none,none,/questoes-de-concursos/questoes/af72bd38-3a
+1,none,none,none,none,none,none,/questoes-de-concursos/questoes/af6677fa-3a
+2,none,none,none,none,none,none,/questoes-de-concursos/questoes/af62f109-3a
+3,none,none,none,none,none,none,/questoes-de-concursos/questoes/af5a8ae3-3a
+4, Considere a sentença: “Paulo é torcedor do Nacional ou Débora não é torcedora do Fast”. A negação lógica dessa sentença é ,Paulo não é torcedor do Nacional ou Débora não é torcedora do Fast. ,Paulo não é torcedor do Nacional ou Débora é torcedora do Fast., Paulo não é torcedor do Nacional e Débora não é torcedora do Fast.,Paulo não é torcedor do Nacional e Débora é torcedora do Fast.,Paulo é torcedor do Nacional ou Débora é torcedora do Fast.,/questoes-de-concursos/questoes/97095657-34
+5,none,none,none,none,none,none,/questoes-de-concursos/questoes/904b275d-07
+6,none,none,none,none,none,none,/questoes-de-concursos/questoes/d4c90e76-06
+7,none,none,none,none,none,none,/questoes-de-concursos/questoes/d4234494-06
+8,none,none,none,none,none,none,/questoes-de-concursos/questoes/d22d5670-06
+9,none,none,none,none,none,none,/questoes-de-concursos/questoes/e6e9acbd-06
+10,none,none,none,none,none,none,/questoes-de-concursos/questoes/02f1f170-04
+11,none,none,none,none,none,none,/questoes-de-concursos/questoes/c3dd60a4-04
+12," Uma negação lógica para a proposição a Terra é redonda se e somente se o céu não é azul ,pode ser dada por: ","o céu é azul e a Terra é redonda, ou a Terra é redonda e o céu não é azul. ",a Terra é redonda e o céu não é azul ,"o céu não é azul e a Terra não é redonda, ou a Terra é redonda e o céu é azul ",a Terra não é redonda ou o céu não é azul. ,O céu não é azul e a Terra não é redonda. ,/questoes-de-concursos/questoes/c72f76e1-ff
+13," Se sou responsável, então sou um bom profissional.Uma afirmação equivalente à afirmação acima está contida no item: ","Se sou um bom profissional, então sou responsável ",Sou um bom profissional se e somente se sou respon- sável. ,"Se não sou responsável, então não sou um bom profis- sional. ",Não sou responsável se e somente se não sou um bom profissional. ,"Se não sou um bom profissional, então não sou responsável. ",/questoes-de-concursos/questoes/c3f7fc96-ff
+14," Assinale a alternativa que contém a negação da sentença lógica “Se fizer frio, eu compro um agasalho”. ","Se não fizer frio, eu compro umagasalho. ",Faz frio e eu não compro umagasalho. ,Não faz frio e eu não compro umagasalho. ,"Se fizer frio, eu não compro umagasalho ",Não faz frio e eu compro umagasalho. ,/questoes-de-concursos/questoes/8810f209-ff
+15," Do ponto de vista lógico, dizer que a afirmação “todos os lutadores são bravos” é falsa, equivale a dizer que a seguinte afirmação é verdadeira. ",Pelo menos um lutador não é bravo ,Nenhum lutador é bravo ,Nenhuma pessoa brava é lutador ,Pelo menos uma pessoa brava não é lutador ,Todos os não bravos são não lutadores ,/questoes-de-concursos/questoes/68e179d2-fd
+16,none,none,none,none,none,none,/questoes-de-concursos/questoes/d1e168c2-fa
+17,none,none,none,none,none,none,/questoes-de-concursos/questoes/c9e020cd-fa
+18,none,none,none,none,none,none,/questoes-de-concursos/questoes/c87e232d-fa
+19,none,none,none,none,none,none,/questoes-de-concursos/questoes/c7085897-fa
+20,none,none,none,none,none,none,/questoes-de-concursos/questoes/892fe679-f9
+21,none,none,none,none,none,none,/questoes-de-concursos/questoes/88a7f6a4-f9
+22,none,none,none,none,none,none,/questoes-de-concursos/questoes/881d552f-f9
+23,none,none,none,none,none,none,/questoes-de-concursos/questoes/9348c1af-e5
+24,none,none,none,none,none,none,/questoes-de-concursos/questoes/921a8729-e5
+25,none,none,none,none,none,none,/questoes-de-concursos/questoes/90e4f189-e5
+26,none,none,none,none,none,none,/questoes-de-concursos/questoes/8fb47985-e5
+27," Proposição é toda sentença declarativa que pode ser classificada, unicamente, como verdadeira ou como falsa. Portanto, uma proposição que não possa ser classificada como falsa será verdadeira e vice-versa. Proposições compostas são sentenças formadas por duas ou mais proposições relacionadas por conectivos.    Sejam p e q proposições e ~p e ~q, respectivamente, suas negações. Se p e q são proposições verdadeiras, então é verdadeira a proposição composta  ",p ∧ ~q ,~p ∧ q ,~p ∧ ~q ,~p ∨ q ,~p ∨ ~q ,/questoes-de-concursos/questoes/54d5fa69-cb
+28," Leia a afirmação a seguir.Se Demerval casa, então Demerval não compra uma bicicleta.Com relação a essa sentença, assinale a alternativa que apresenta, corretamente, a sentença equivalente do ponto de vista lógico. ","Se Demerval não casa, então Demerval compra uma bicicleta. ","Se Demerval não casa, então Demerval não compra uma bicicleta. ","Se Demerval não compra uma bicicleta, então Demerval casa. ","Se Demerval compra uma bicicleta, então Demerval não casa. ","Se Demerval casa, então Demerval compra uma bicicleta. ",/questoes-de-concursos/questoes/7dc7cc31-bc
+29,none,none,none,none,none,none,/questoes-de-concursos/questoes/536be665-b6
+30," Dada a proposição “Se Cíntia é assistente social, então Martha é psicóloga”, uma proposição equivalente é: ","Se Cíntia não é assistente social, então Martha não é psicóloga. ","Martha é psicóloga se, e somente se, Cíntia é assistente social. ","Se Martha não é psicóloga, então Cíntia não é assistente social. ","Se Martha é psicóloga, então Cíntia é assistente social. ",Cíntia é assistente social eMartha é psicóloga. ,/questoes-de-concursos/questoes/16f2bef6-b4
+31, Dizer que não é verdade que Ana é capixaba e Leonardo é carioca é logicamente equivalente a dizer que é verdade que: ,"Se Ana não é capixaba, então Leonardo é carioca. ","Se Ana não é capixaba, então Leonardo não é carioca. ",Ana não é capixaba ou Leonardo não é carioca. ,Ana não é capixaba e Leonardo não é carioca. ,Ana é capixaba ou Leonardo não é carioca. ,/questoes-de-concursos/questoes/65a805d1-b2
+32," Dada a proposição “Se Cíntia é assistente social, então Martha é psicóloga”, uma proposição equivalente é: ","Se Cíntia não é assistente social, então Martha não é psicóloga. ","Martha é psicóloga se, e somente se, Cíntia é assistente social. ","Se Martha não é psicóloga, então Cíntia não é assistente social. ","Se Martha é psicóloga, então Cíntia é assistente social. ",Cíntia é assistente social e Martha é psicóloga. ,/questoes-de-concursos/questoes/646b7fc7-b2
+33, A negação da proposição condicional “Luciana é médica e legista da Polícia Civil” é: ,Luciana é médica ou é legista da Polícia Civil. ,Luciana não é médica e é legista da Polícia Civil. ,Luciana não é médica ou é legista da Polícia Civil. ,Luciana não é médica e não é legista da Polícia Civil. ,Luciana não é médica ou não é legista da Polícia Civil. ,/questoes-de-concursos/questoes/632d345d-b2
+34,none,none,none,none,none,none,/questoes-de-concursos/questoes/e021aac4-ad
+35,none,none,none,none,none,none,/questoes-de-concursos/questoes/4816bb6f-ac
+36," A negação da proposição “se Curitiba é a capital do Brasil, então Santos é a capital do Paraná” é logicamente equivalente à proposição: ",Curitiba não é a capital do Brasil e Santos não é a capital do Paraná. ,Curitiba não é a capital do Brasil ou Santos não é a capital do Paraná. , Curitiba é a capital do Brasil e Santos não é a capital do Paraná. ,"Se Curitiba não é a capital do Brasil, então Santos não é a capital do Paraná. ",Curitiba é a capital do Brasil ou Santos não é a capital do Paraná. ,/questoes-de-concursos/questoes/f3c55fcb-ab
+37,none,none,none,none,none,none,/questoes-de-concursos/questoes/59f9c869-a3
+38,none,none,none,none,none,none,/questoes-de-concursos/questoes/6c152043-9e
+39, Marque a alternativa que contém a negação da proposição “Todos os peixes dos oceanos são saborosos”. ,Alguns peixes dos oceanos são saborosos. ,Existem peixes dos oceanos que não são saborosos. ,Existem peixes dos oceanos que são saborosos. ,Nenhum peixe dos oceanos não é saboroso. ,Os peixes dos oceanos são mamíferos. ,/questoes-de-concursos/questoes/ae6914e2-9d
+40," Marque a alternativa que contém a proposição logicamente equivalente a “Se os preços são altos, então os gastos são baixos”. ","Se os gastos não são baixos, então os preços não são altos. ","Se os gastos são altos, então os preços são altos. ","Se os preços não são altos, então os gastos não são baixos. ",Os preços são baixos e os gastos são baixos. ,"Ou os preços, ou os gastos são baixos. ",/questoes-de-concursos/questoes/ad1563d3-9d
+41," Marque a alternativa que contém uma sentença logicamente equivalente a “Se Paulo é estudante, então João é professor”. ",Paulo é estudante ou João é professor. ,"Se João não é professor, então Paulo não é estudante. ",Paulo é estudante ou João não é professor. ,"Se João é professor, então Paulo é estudante. ","Se Paulo não é estudante, então João não é professor. ",/questoes-de-concursos/questoes/a431069d-9d
+42,none,none,none,none,none,none,/questoes-de-concursos/questoes/8ecfe54b-9b
+43,none,none,none,none,none,none,/questoes-de-concursos/questoes/858483f2-8b
+44,none,none,none,none,none,none,/questoes-de-concursos/questoes/1e8169e5-7d
+45,none,none,none,none,none,none,/questoes-de-concursos/questoes/1b1826e8-7d
+46,none,none,none,none,none,none,/questoes-de-concursos/questoes/1882b4c6-7d
+47,none,none,none,none,none,none,/questoes-de-concursos/questoes/386911c5-7d
+48,none,none,none,none,none,none,/questoes-de-concursos/questoes/00bc89a0-70
+49,none,none,none,none,none,none,/questoes-de-concursos/questoes/fef1cf35-70
+50,none,none,none,none,none,none,/questoes-de-concursos/questoes/fe0abf2a-70
+51, A proposição composta  p →  p ∧ q é equivalente à proposição:  ,p v q ,p ∧ q ,p ,~ p v q ,q ,/questoes-de-concursos/questoes/f4802166-70
+52, A proposição “Paulo é médico ou Ana não trabalha” é logicamente equivalente a: ,"Se Ana trabalha, então Paulo é médico. "," Se Ana trabalha, então Paulo não é médico. ",Paulo é médico ou Ana trabalha. ,Ana trabalha e Paulo não é médico. ,"Se Paulo é médico, então Ana trabalha. ",/questoes-de-concursos/questoes/50c013c0-6f
+53," Um vereador afirmou que, no último ano, compareceu a todas as sessões da Câmara Municipal e não empregou parentes em seu gabinete. Para que essa afirmação seja falsa, é necessário que, no último ano, esse vereador ",tenha faltado em todas as sessões da Câmara Municipal ou tenha empregado todos os seus parentes em seu gabinete. ,tenha faltado em pelo menos uma sessão da Câmara Municipal e tenha empregado todos os seus parentes em seu gabinete.  , tenha faltado em pelo menos uma sessão da Câmara Municipal ou tenha empregado um parente em seu gabinete.  ,tenha faltado em todas as sessões da Câmara Municipal e tenha empregado um parente em seu gabinete. ,tenha faltado em mais da metade das sessões da Câmara Municipal ou tenha empregado pelo menos um parente em seu gabinete.  ,/questoes-de-concursos/questoes/706544fe-6b
+54," Leia os Avisos I e II, colocados em um dos setores de uma fábrica. Paulo, funcionário desse setor, realizou o curso específico, mas foi proibido, por seu supervisor, de operar a máquina M. A decisão do supervisor  ",error,error,error,error,error,/questoes-de-concursos/questoes/3a6791a7-6b
+55,none,none,none,none,none,none,/questoes-de-concursos/questoes/052fa152-68
+56," A negação da proposição “Crescer além de certo porte é um ótimo negócio para empresários, mas um mau negócio para o mundo” é equivalente a ",Crescer além de certo porte não é um ótimo negócio para empresários ou não é um mau negócio para o mundo. ,"Não crescer além de certo porte é um ótimo negócio para empresários, mas um mau negócio para o mundo. ","Não crescer além de certo porte não é um ótimo negócio para empresários, mas um mau negócio para o mundo. ","Não crescer além de certo porte não é um ótimo negócio para empresários, nem um mau negócio para o mundo. ","Crescer além de certo porte não é um ótimo negócio para empresários, nem um mau negócio para o mundo. ",/questoes-de-concursos/questoes/166bb757-5b
+57, A negação da frase “ Carlos é rico e João é trabalhador” é: ,Carlos não é rico ou João não é trabalhador”. ,Carlos não é rico e João não é trabalhador”. ,"Se Carlos não é rico, então João não é trabalhador”. ","Carlos não é rico, se e somente se, João não é trabalhador”. ",Carlos não é rico e João é trabalhador. ,/questoes-de-concursos/questoes/0fb3dca8-59
+58," Dadas duas proposições lógicas, p e q, tem-se que a expressão (~p v q) ^ (~q v p) é logicamente equivalente à expressão ", , , , , ,/questoes-de-concursos/questoes/9890a7fb-55
+59,none,none,none,none,none,none,/questoes-de-concursos/questoes/7f68b800-55
+60,none,none,none,none,none,none,/questoes-de-concursos/questoes/7e7fdeb9-55
+61," Considere a seguinte afirmação a respeito de dois jovens X e Y “Se X vai à festa, então Y não vai.” Esta afirmação é equivalente a: ",X vai à festa e Y não vai. ,X não vai à festa ou Y vai. ," Se X não vai à festa, então Y vai. "," Se Y vai à festa, então X não vai. ","Se Y não vai à festa, então X vai. ",/questoes-de-concursos/questoes/bb236653-47
+62, Considere a afirmação: “Hoje é domingo e amanhã não vou trabalhar”. A negação dessa afimação é: , Hoje é domingo e amanhã vou trabalhar. ,Hoje não é domingo e amanhã não vou trabalhar. ,Hoje não é domingo ou amanhã não vou trabalhar. ,Hoje não é domingo ou amanhã vou trabalhar. ,Hoje é domingo ou amanhã não vou trabalhar. ,/questoes-de-concursos/questoes/2c0ac243-47
+63," A única das proposições abaixo que pode ser considerada uma negação de “se fico exposto ao sol, então fico vermelho” é:  ",não fico exposto ao sol ou fico vermelho ,fico exposto ao sol e não fico vermelho ,"se não fico exposto ao sol, então não fico vermelho ",não fico exposto ao sol e fico vermelho ,fico exposto ao sol e fico vermelho. ,/questoes-de-concursos/questoes/939cbd0c-40
+64,none,none,none,none,none,none,/questoes-de-concursos/questoes/4fd75515-40
+65,none,none,none,none,none,none,/questoes-de-concursos/questoes/4e850af6-40
+66,none,none,none,none,none,none,/questoes-de-concursos/questoes/58779621-3e
+67,none,none,none,none,none,none,/questoes-de-concursos/questoes/575d9953-3e
+68,none,none,none,none,none,none,/questoes-de-concursos/questoes/5530d17e-3e
+69,none,none,none,none,none,none,/questoes-de-concursos/questoes/67132b78-3a
+70,error,não p ou não r,Se r então p,se p então r,p e r,p ou r,/questoes-de-concursos/questoes/0a3c8e2e-39
+71,none,none,none,none,none,none,/questoes-de-concursos/questoes/5aad7c24-33
+72,none,none,none,none,none,none,/questoes-de-concursos/questoes/588d09c7-33
+73,none,none,none,none,none,none,/questoes-de-concursos/questoes/44c562ba-33
+74,none,none,none,none,none,none,/questoes-de-concursos/questoes/437f3115-33
+75," Se P, Q e R são afirmações lógicas, então a contraposição da implicação (P→Q)→R é logicamente equivalente à implicação ",~R→ ((~Q)∧ P),((~Q) →(~P)) → ~R,~R →((~P) ∨ Q),R →((~Q) → (~P)),~ (P →Q) → ~R,/questoes-de-concursos/questoes/59e93dc4-29
+76,none,none,none,none,none,none,/questoes-de-concursos/questoes/270f91bb-21
+77,none,none,none,none,none,none,/questoes-de-concursos/questoes/e36e6ed6-1c
+78,none,none,none,none,none,none,/questoes-de-concursos/questoes/e28777d6-1c
+79,none,none,none,none,none,none,/questoes-de-concursos/questoes/e19c31a9-1c
+80,none,none,none,none,none,none,/questoes-de-concursos/questoes/e0ad6815-1c
+81,none,none,none,none,none,none,/questoes-de-concursos/questoes/79fcf024-1c
+82,none,none,none,none,none,none,/questoes-de-concursos/questoes/78edd032-1c
+83,none,none,none,none,none,none,/questoes-de-concursos/questoes/76814825-1c
+84,none,none,none,none,none,none,/questoes-de-concursos/questoes/de6b7460-17
+85," A Seguradora Sossego veiculou uma propaganda cujo  slogan era: “Sempre que o cliente precisar, terá Sossego ao seu lado.” Considerando que o slogan seja verdadeiro, conclui-se que, necessariamente, se o cliente  ","não precisar, então não terá Sossego ao seu lado. ","não precisar, então terá Sossego ao seu lado. ","não tiver Sossego ao seu lado, então não precisou. ","tiver Sossego ao seu lado, então não precisou. ","tiver Sossego ao seu lado, então precisou. ",/questoes-de-concursos/questoes/1a930cbc-0c
+86," A negação da proposição “se Paulo estuda, então Marta é atleta” é logicamente equivalente à proposição ",Paulo não estuda e Marta não é atleta. ,Paulo estuda e Marta não é atleta. ,Paulo estuda ou Marta não é atleta. ,"se Paulo não estuda, então Marta não é atleta. ",Paulo não estuda ou Marta não é atleta. ,/questoes-de-concursos/questoes/6ff63c0a-09
+87, A afirmação “A menina tem olhos azuis ou o menino é loiro” tem como sentença logicamente equivalente: ," se o menino é loiro, então a menina tem olhos azuis. ","se a menina tem olhos azuis, então o menino é loiro. ","se a menina não tem olhos azuis, então o menino é loiro. ","não é verdade que se a menina tem olhos azuis, então o menino é loiro. ","não é verdade que se o menino é loiro, então a menina tem olhos azuis. ",/questoes-de-concursos/questoes/ae8ac967-08
+88," Se P, Q e R são afirmações lógicas, então a contraposição da implicação (P→Q)→R é logicamente equivalente à implicação  ",~R→ ((~Q) ∧ P),((~Q) → (~P)) → ~R,~R → ((~P) ∨ Q),R→ ((~Q) → (~P)),~ (P → Q)→~R,/questoes-de-concursos/questoes/60f906a4-07
+89," Se P é a afirmativa “Todas as vezes em que pedi para Joana fazer algo, ela encontrou uma maneira de me fazer passar a tarefa para o Mário"", então a sua negação, ~P, é logicamente equivalente à afirmação  ",Houve uma vez em que pedi para Joana fazer algo e ela não encontrou uma maneira de me fazer passar a tarefa para alguém.,Houve uma vez em que pedi para Joana fazer algo e ela não encontrou maneira alguma de me fazer passar a tarefa para o Mário.,Houve uma vez em que pedi para Joana fazer tudo e ela não encontrou uma maneira de me fazer passar a tarefa para alguém.,"Todas as vezes em que pedi para Joana fazer algo, ela não encontrou uma maneira de me fazer passar a tarefa para o Mário.","Todas as vezes em que pedi para Joana fazer algo, ela encontrou uma maneira de me fazer passar a tarefa para alguém, que não fosse Mário.",/questoes-de-concursos/questoes/5e946c62-07
+90," Dadas duas proposições lógicas, p e q, tem-se que a expressão (~p ∨ q) ∧ (~q ∨ p )é logicamente equivalente à expressão  ",p↔q,p→q,(~p)→(~q),(p ^ q) ^ ~(p ^ q),(p ^ q) ^ (~p ^ ~q),/questoes-de-concursos/questoes/7cc3e290-00
+91,none,none,none,none,none,none,/questoes-de-concursos/questoes/f846aa54-f6
+92,none,none,none,none,none,none,/questoes-de-concursos/questoes/f52ca656-f6
+93,none,none,none,none,none,none,/questoes-de-concursos/questoes/f41b322e-f6
+94,none,none,none,none,none,none,/questoes-de-concursos/questoes/f31c349d-f6
+95,none,none,none,none,none,none,/questoes-de-concursos/questoes/4920014c-f6
+96,none,none,none,none,none,none,/questoes-de-concursos/questoes/46de32cd-f6
+97,none,none,none,none,none,none,/questoes-de-concursos/questoes/9b63fa44-f5
+98,none,none,none,none,none,none,/questoes-de-concursos/questoes/99783759-f5
+99,none,none,none,none,none,none,/questoes-de-concursos/questoes/98834886-f5

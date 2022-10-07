@@ -7,30 +7,47 @@ import pandas as pd
 import re
 import time
 
-f = open("config.json")
 
-jdata = json.load(f)
 
-f.close()
+def main(a):
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    f = open("config.json")
 
-data = pd.read_csv(
-    'questoes/0eba07d7-5798-4685-bae4-9efe48445994.csv')
+    jdata = json.load(f)
 
-new_list = []
+    f.close()
 
-for i in data['link']:
-    match = re.search(r'/questoes-de-concursos/questoes/\w+.\w+', i)
-    new_list.append(match.group())
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-d = []
+    data = pd.read_csv(f'questoes/{a}.csv') #5
+        
+        
 
-for x in new_list:
-    d.append(getData(x, driver))
-    time.sleep(4)
+    new_list = []
 
-df = pd.DataFrame.from_dict(d) 
+    for i in data['link']:
+        match = re.search(r'/questoes-de-concursos/questoes/\w+.\w+', i)
+        new_list.append(match.group())
 
-df.to_csv("teste.csv")
+    d = []
 
+    for x in new_list:
+        d.append(getData(x, driver))
+        time.sleep(20)
+
+    df = pd.DataFrame.from_dict(d)
+    driver.quit() 
+
+    df.to_csv(f"questoes_3/{a}.csv")
+
+def arq():
+    with open('config.json') as f: 
+        d = json.load(f) 
+
+    a=''
+    for i in range(len(d['files'])):
+        a=d['files'][i]
+        time.sleep(20)
+        main(a)
+
+arq()

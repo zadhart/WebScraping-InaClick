@@ -23,7 +23,7 @@ def getQuestions(driver, jdata):
         if(jdata["lastPage"] == 300):
             os.system("shutdown")
 
-        time.sleep(2)
+        time.sleep(15)
 
         t = driver.find_elements(By.CLASS_NAME, "q-id")
 
@@ -32,7 +32,7 @@ def getQuestions(driver, jdata):
 
         driver.get(f"https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=4&page={i+1}&subject_ids%5B%5D=15446")
 
-        time.sleep(2)
+        time.sleep(15)
 
         nd = pd.DataFrame(data, columns=['link'])
 
