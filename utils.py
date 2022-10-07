@@ -130,3 +130,18 @@ def getData(src, driver):
 
     return data
 
+def combinarCSV():
+
+    import os
+    import glob
+    import pandas as pd
+    os.chdir("D:\\Rubens_HD\\testes_python\\questoes_3")
+
+    extension = 'csv'
+    all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
+
+    #combinar todos os arquivos da lista
+    combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ])
+    #exportar para csv
+    combined_csv.to_csv( "combined_csv.csv", index=False, encoding='utf-8-sig')
+
